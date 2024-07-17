@@ -200,3 +200,6 @@ cython_debug/
 # FastAPI specific
 *.db
 *.sqlite
+
+docker-compose.yml
+Dockerfile
